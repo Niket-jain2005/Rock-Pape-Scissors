@@ -6,7 +6,7 @@ Choose Rock, Paper, or Scissors and play against the computer. The score updates
 
 ### Live Demo
 
-[Play the game](https://niket-jain2005.github.io/Rock-Pape--Scissors/)
+[Play the game](https://niket-jain2005.github.io/Rock-Pape-Scissors/)
 
 ### Built With
 
